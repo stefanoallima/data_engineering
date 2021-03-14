@@ -1,2 +1,2 @@
 # data_engineering
-project of course in data engineering
+projects and exercisee of course in data engineering
